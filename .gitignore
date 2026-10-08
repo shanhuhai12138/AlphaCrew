@@ -1,0 +1,23 @@
+# 密钥 / 本地环境
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 前端
+node_modules/
+dist/
+
+# 编辑器 / 系统
+.obsidian/
+.DS_Store
+
+# 本地数据
+data/
+*.log
+# stray env copies`n.txt
+
+# stray env copies
+.txt
